@@ -9,8 +9,6 @@ public class RealCoolName {
 			System.out.println(" my song");
 			System.out.println(" my pen");
 			System.out.println(" it all go away" );
-			my name is ariana 
-			i like to dANCE 
+			
 	}
-
 }
