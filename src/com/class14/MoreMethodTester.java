@@ -7,11 +7,11 @@ public class MoreMethodTester {
 MoreMethodExamples moreMethodExamples=new MoreMethodExamples();
 
 System.out.println(moreMethodExamples.print());
-System.out.println(moreMethodExamples.doubleTheValue(10));
-moreMethodExamples.isRaining(true);
-moreMethodExamples.print5();
+System.out.println(moreMethodExamples.doubleTheValue(60));
+moreMethodExamples.isRaining(false);
+moreMethodExamples.print5(); //void only printing 
 System.out.println(moreMethodExamples.returnGreater( 122,56));
-moreMethodExamples.numEvenOdd(2);
+moreMethodExamples.numEvenOdd(31);
 
 double [] arr= {10.2,25,30};
 System.out.println(moreMethodExamples.returnTheArraySum(arr));

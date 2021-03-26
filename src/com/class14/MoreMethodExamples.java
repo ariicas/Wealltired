@@ -57,10 +57,10 @@ double returnGreater(double num1 ,double num2) {
 
 void numEvenOdd(int a) { 
 	if (a%2==0) {
-		System.out.println("number is even");
+		System.out.println(a+" is an even number ");
 			
 		}else {
-			System.out.println("number is odd");
+			System.out.println(a+ " is an odd number ");
 		}	
 }
 /* write a method that takes an array and return the
@@ -84,7 +84,7 @@ double returnTheArraySum(double [] arr) {
  * bba no
  */
 
-boolean isMirror(String str) {
+boolean isMirror(String str) { //disbug this problem 
 	String newStr="";
 	
 	for(int i=str.length()-1; i>=0; i--) {

@@ -12,7 +12,11 @@ public class Hw07 {
 				sum=a+b;
 				System.out.print(sum+" ");
 				a=b;b=sum;
+				
+				
 			}
+			
+
 	}
 
 }
