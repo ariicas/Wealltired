@@ -1,0 +1,19 @@
+Inheritance:
+in java is a mechanism by which one class inherit properties/methods of another class/
+it helps reduce the duplicate code.
+if not used properly the classes will be tightly couples and in the future if you have to change anything
+in the parent class all of the child classes will be effected.
+private fields/methods and constructor do not participate in inheritance.
+Single inheritane (not used commonly)
+hierachical :
+we have one parent class many child classes that inherit from that single parent class.
+MultiLevel inheritance:
+we have inheritance relationship with more than one class in same hierachy ;
+for example ---> c->b->a
+multiple inheritance- (not supported by java)
+in multiple inheritance  one class inherits from at least 2 class thats creates
+the famous diamond problem(both parent classes have the same methods or fields)
+if theres a conflit between both parents and causes confusion.
+=========================================================
+super keyword is used to access constructor
+fields and methods of the parent class.

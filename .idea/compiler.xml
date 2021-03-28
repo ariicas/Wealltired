@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/com/class20/Lion.java" />
+      <file url="file://$PROJECT_DIR$/src/com/class20/Cat.java" />
+      <file url="file://$PROJECT_DIR$/src/com/class20/Dog.java" />
+      <file url="file://$PROJECT_DIR$/src/com/class20/Child.java" />
+      <file url="file://$PROJECT_DIR$/src/com/class20/Teacher.java" />
+    </excludeFromCompile>
+  </component>
+</project>
